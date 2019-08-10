@@ -49,4 +49,4 @@ poe (i.e., %_of_error) = {current error / {(e(max))^2} } * 100
          = {current error / mean(target^2)} * 100 
 
       [Note: this formual is for prediction, not classification]
-poa (i.e., %_of_accuracy) = 100 - poe
+poa (i.e., %_of_accuracy) = 100 - poe 
